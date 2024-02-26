@@ -1,4 +1,4 @@
-Going Modular Scripts
+# Going Modular Scripts
 The Python scripts in this directory were generated breakdown as follows:
 
 data_setup.py - a file to prepare and download data if needed.
